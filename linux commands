@@ -1,0 +1,27 @@
+whoami – Displays the current logged-in user
+
+pwd – Shows the complete path of the current directory
+
+ls – Lists files and directories
+
+ls -a – Displays all files including hidden ones
+
+cd – Changes the current directory
+
+cd .. – Moves one level up (previous directory)
+
+mkdir – Creates a new directory (folder)
+
+rmdir – Removes an empty directory
+
+touch – Creates a new empty file
+
+nano – Opens a file for editing in the terminal
+
+cat – Displays the contents of a file
+
+cp – Copies files or directories
+
+mv – Moves or renames files/directories
+
+rm – Deletes files or directories
